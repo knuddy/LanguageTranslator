@@ -1,0 +1,277 @@
+[
+    {
+        "quizTitle": "Mythologie",
+        "questions": [
+            {
+                "questionText": "Cette figure mythologique grecque est le dieu / déesse de la stratégie de combat (entre autres).",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Ares",
+                    "Artemis",
+                    "Athéna",
+                    "Apollon"
+                ]
+            },
+            {
+                "questionText": "Le nom grec de Neptune était ...",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Apollon",
+                    "Poséidon",
+                    "Ares",
+                    "Zeus"
+                ]
+            },
+            {
+                "questionText": "Lequel de ces dieux romains n'a pas d'équivalent dans la mythologie grecque?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Vulcain",
+                    "Juno",
+                    "Mars",
+                    "Janus"
+                ]
+            },
+            {
+                "questionText": "Quel est le nom du dieu grec des forgerons?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Dyntos",
+                    "Vulcain",
+                    "Héphaïstos",
+                    "Artagatus"
+                ]
+            },
+            {
+                "questionText": "Selon le folklore japonais, quelle est la nourriture préférée des Kappa.",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Concombres",
+                    "Pièce",
+                    "Kabocha",
+                    "Nasu"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Politique",
+        "questions": [
+            {
+                "questionText": "Quel président a effacé la dette nationale des États-Unis?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Andrew Jackson",
+                    "Franklin roosevelt",
+                    "John F. Kennedy",
+                    "Ronald Reagan"
+                ]
+            },
+            {
+                "questionText": "Avant 2011, \"True Capitalist Radio\" était connue sous un autre nom. Quel était ce nom?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Radio capitaliste texane",
+                    "Les capitalistes unis",
+                    "Véritable radio conservatrice",
+                    "True Republican Radio"
+                ]
+            },
+            {
+                "questionText": "Lequel de ceux-ci N'EST PAS l'un des enfants de Donald Trump?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Donald Jr.",
+                    "Eric",
+                    "Ivanka",
+                    "Julius"
+                ]
+            },
+            {
+                "questionText": "Quel était le surnom personnel du 40e gouverneur de l'État américain de Louisiane, Huey Long?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Le champ",
+                    "L'oracle",
+                    "Le Kingfish",
+                    "The Hoot Owl"
+                ]
+            },
+            {
+                "questionText": "Quel ancien président américain a utilisé «Rendons l'Amérique encore plus grande» comme slogan de campagne avant la campagne de Donald Trump?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Gerald Ford",
+                    "Richard Nixon",
+                    "Ronald Reagan",
+                    "Jimmy Carter"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Géographie",
+        "questions": [
+            {
+                "questionText": "Kuala Lumpur est la capitale de quel pays?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "La malaisie",
+                    "Thaïlande",
+                    "Indonésie",
+                    "Singapour"
+                ]
+            },
+            {
+                "questionText": "Quel événement a conduit le Liechtenstein à ajouter une couronne à son drapeau?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Signature de la Constitution de 1862 du Liechtenstein",
+                    "Couronnement du prince Johann I Joseph en 1805",
+                    "Décret de Charles VI en 1719",
+                    "Les Jeux olympiques de 1936"
+                ]
+            },
+            {
+                "questionText": "Quel pays a trois capitales?",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Royaume-Uni",
+                    "Afrique du Sud",
+                    "Somalie",
+                    "Chine"
+                ]
+            },
+            {
+                "questionText": "Quel est le plus long fleuve du monde?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Yangtze",
+                    "Missouri",
+                    "Amazone",
+                    "Nil"
+                ]
+            },
+            {
+                "questionText": "Dans quel comté anglais se trouve la ville de Portsmouth?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Oxfordshire",
+                    "Surrey",
+                    "Buckinghamshire",
+                    "Hampshire"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Film",
+        "questions": [
+            {
+                "questionText": "Dans le film de 1984 \"The Terminator\", quel numéro de modèle le Terminator représente-t-il par Arnold Schwarzenegger?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "T-800",
+                    "T-888",
+                    "T-1000",
+                    "I-950"
+                ]
+            },
+            {
+                "questionText": "Quel est le nom du robot dans le classique du film de science-fiction de 1951 «Le jour où la Terre s'est arrêtée»?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Colosse",
+                    "Boîte",
+                    "Orge",
+                    "Robby"
+                ]
+            },
+            {
+                "questionText": "Dans le redémarrage de 2010 Nightmare on Elm Street, qui a joué Freddy Kruger?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Jackie Earle Haley",
+                    "Gunnar Hansen",
+                    "Tyler Mane",
+                    "Derek Mears"
+                ]
+            },
+            {
+                "questionText": "Lequel de ces acteurs serait extrait du film \"ET l'extra-terrestre\"?",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Andy Kaufman",
+                    "Harrison Ford",
+                    "Arnold Schwarzenegger",
+                    "Michael J. Fox"
+                ]
+            },
+            {
+                "questionText": "Qui a joué le Sgt. Gordon Elias dans 'Platoon' (1986)?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Matt Damon",
+                    "Johnny Depp",
+                    "Charlie Sheen",
+                    "Willem Dafoe"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Histoire",
+        "questions": [
+            {
+                "questionText": "Le génocide Herero a été perpétré en Afrique par laquelle des nations coloniales suivantes?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "La Grande-Bretagne",
+                    "France",
+                    "Belgique",
+                    "Allemagne"
+                ]
+            },
+            {
+                "questionText": "Adolf Hitler est né à quelle date?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "20 avril 1889",
+                    "16 avril 1889",
+                    "12 juin 1889",
+                    "6 février 1889"
+                ]
+            },
+            {
+                "questionText": "En quelle année le mur de Berlin est-il tombé?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "1993",
+                    "1987",
+                    "1989",
+                    "1991"
+                ]
+            },
+            {
+                "questionText": "Quel est le nom du navire qui n'était qu'à quelques kilomètres du RMS Titanic lorsqu'il a heurté un iceberg le 14 avril 1912?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Commerce",
+                    "Cristol",
+                    "Carpathia",
+                    "californien"
+                ]
+            },
+            {
+                "questionText": "Quand la crise du troisième siècle a-t-elle commencé?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "235 avant JC",
+                    "242 AD",
+                    "210 AD",
+                    "235 AD"
+                ]
+            }
+        ]
+    }
+]

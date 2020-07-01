@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorPrimary" format="color"/>
+    <attr name="colorPrimaryDark" format="color"/>
+    <attr name="colorAccent" format="color"/>
+    <attr name="toolbar_background" format="color"/>
+    <attr name="card_bg" format="color"/>
+    <attr name="main_menu_card_text_colour" format="color"/>
+    <attr name="settings_section_title" format="color"/>
+</resources>

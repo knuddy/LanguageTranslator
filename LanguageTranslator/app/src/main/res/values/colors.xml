@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cdd5e0</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="toolbar_background">#4e709d</color>
+    <color name="card_bg">#fafafa</color>
+    <color name="main_menu_card_text_colour">#000000</color>
+    <color name="settings_section_title">#00ABE5</color>
+    <color name="spinner_wheel">#000000</color>
+    <color name="spinner_card">@android:color/background_light</color>
+    <color name="spinner_text_color">@android:color/black</color>
+</resources>

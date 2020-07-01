@@ -1,0 +1,277 @@
+[
+    {
+        "quizTitle": "Mythology",
+        "questions": [
+            {
+                "questionText": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Ares",
+                    "Artemis",
+                    "Athena",
+                    "Apollo"
+                ]
+            },
+            {
+                "questionText": "Neptune's greek name was...",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Apollo",
+                    "Poseidon",
+                    "Ares",
+                    "Zeus"
+                ]
+            },
+            {
+                "questionText": "Which of these Roman gods doesn't have a counterpart in Greek mythology?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Vulcan",
+                    "Juno",
+                    "Mars",
+                    "Janus"
+                ]
+            },
+            {
+                "questionText": "What is the name of the Greek god of blacksmiths?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Dyntos",
+                    "Vulcan",
+                    "Hephaestus",
+                    "Artagatus"
+                ]
+            },
+            {
+                "questionText": "According to Japanese folklore, what is the favorite food of the Kappa.",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Cucumbers",
+                    "Soba",
+                    "Kabocha",
+                    "Nasu"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Politics",
+        "questions": [
+            {
+                "questionText": "Which president erased the national debt of the United States?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Andrew Jackson",
+                    "Franklin Roosevelt",
+                    "John F. Kennedy",
+                    "Ronald Reagan"
+                ]
+            },
+            {
+                "questionText": "Before 2011, \"True Capitalist Radio\" was known by a different name. What was that name?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Texan Capitalist Radio",
+                    "United Capitalists",
+                    "True Conservative Radio",
+                    "True Republican Radio"
+                ]
+            },
+            {
+                "questionText": "Which of these is NOT one of Donald Trump's children?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Donald Jr.",
+                    "Eric",
+                    "Ivanka",
+                    "Julius"
+                ]
+            },
+            {
+                "questionText": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "The Champ",
+                    "The Oracle",
+                    "The Kingfish",
+                    "The Hoot Owl"
+                ]
+            },
+            {
+                "questionText": "Which former US president used \"Let's Make America Great Again\" as his campaign slogan before Donald Trump's campaign?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Gerald Ford",
+                    "Richard Nixon",
+                    "Ronald Reagan",
+                    "Jimmy Carter"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Geography",
+        "questions": [
+            {
+                "questionText": "Kuala Lumpur is the capital of which country?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Malaysia",
+                    "Thailand",
+                    "Indonesia",
+                    "Singapore"
+                ]
+            },
+            {
+                "questionText": "What event led to Liechenstein adding a crown to its flag?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Signing of the 1862 Constitution of Liechtenstein",
+                    "Coronation of Prince Johann I Joseph in 1805",
+                    "Charles VI's decree in 1719",
+                    "The 1936 Olympics"
+                ]
+            },
+            {
+                "questionText": "Which country has three capital cities?",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "United Kingdom",
+                    "South Africa",
+                    "Somalia",
+                    "China"
+                ]
+            },
+            {
+                "questionText": "Which is the world's longest river?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Yangtze",
+                    "Missouri",
+                    "Amazon",
+                    "Nile"
+                ]
+            },
+            {
+                "questionText": "In which English county is the city of Portsmouth?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Oxfordshire",
+                    "Surrey",
+                    "Buckinghamshire",
+                    "Hampshire"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Film",
+        "questions": [
+            {
+                "questionText": "In the 1984 movie \"The Terminator\", what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "T-800",
+                    "T-888",
+                    "T-1000",
+                    "I-950"
+                ]
+            },
+            {
+                "questionText": "What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Colossus",
+                    "Box",
+                    "Gort",
+                    "Robby"
+                ]
+            },
+            {
+                "questionText": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Jackie Earle Haley",
+                    "Gunnar Hansen",
+                    "Tyler Mane",
+                    "Derek Mears"
+                ]
+            },
+            {
+                "questionText": "Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Andy Kaufman",
+                    "Harrison Ford",
+                    "Arnold Schwarzenegger",
+                    "Michael J. Fox"
+                ]
+            },
+            {
+                "questionText": "Who played Sgt. Gordon Elias in 'Platoon' (1986)?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Matt Damon",
+                    "Johnny Depp",
+                    "Charlie Sheen",
+                    "Willem Dafoe"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "History",
+        "questions": [
+            {
+                "questionText": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Britain",
+                    "France",
+                    "Belgium",
+                    "Germany"
+                ]
+            },
+            {
+                "questionText": "Adolf Hitler was born on which date?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "April 20, 1889",
+                    "April 16, 1889",
+                    "June 12, 1889",
+                    "February 6, 1889"
+                ]
+            },
+            {
+                "questionText": "In what year did the Berlin Wall fall?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "1993",
+                    "1987",
+                    "1989",
+                    "1991"
+                ]
+            },
+            {
+                "questionText": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Commerce",
+                    "Cristol",
+                    "Carpathia",
+                    "Californian"
+                ]
+            },
+            {
+                "questionText": "When did the Crisis of the Third Century begin?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "235 BC",
+                    "242 AD",
+                    "210 AD",
+                    "235 AD"
+                ]
+            }
+        ]
+    }
+]

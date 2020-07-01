@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countryCode">fr</string>
+    <string name="languageName">French</string>
+    <string name="main_translator_card_title">Traducteur de la langue</string>
+    <string name="main_translator_card_secondary">Traduire d\'une langue à une autre</string>
+    <string name="main_quiz_card_title">Multichoice Quiz</string>
+    <string name="main_quiz_card_secondary">Étant donné une image, choisissez parmi plusieurs réponses</string>
+    <string name="menu_exit_text">" Sortie"</string>
+    <string name="app_name_text">" L'application linguistique"</string>
+    <string name="exit_confirm_text">" Voulez-vous vraiment quitter l'application? Si vous participez actuellement à un quiz, votre progression sera perdue."</string>
+    <string name="menu_settings_text">" Réglages"</string>
+    <string name="exit_close_app_btn_text">Proche</string>
+    <string name="exit_no_thanks_btn_text">Annuler</string>
+    <string name="exit_title_text">Confirmation</string>
+    <string name="exit_secondary_text">Fermer l\'application</string>
+    <string name="settings_general_text">Général</string>
+    <string name="settings_personal_info_text">Informations personnelles</string>
+    <string name="settings_dark_mode_text">Mode sombre</string>
+    <string name="question_manager_start_quiz_text">Démarrer le quiz</string>
+    <string name="quiz_high_score_text">Score élevé:</string>
+    <string name="quiz_manager_high_score_text">Score élevé:</string>
+    <string name="translate_translate_from_text">Traduit depuis</string>
+    <string name="translate_translate_to_text">Traduire en</string>
+    <string name="translate_translate_button_text">Traduire le texte</string>
+    <string name="translator_translator_title_text">Traducteur</string>
+    <string name="translate_begin_translation_button">Commencer la traduction</string>
+    <string name="trasnlate_enter_text_to_translate">" Entrez le texte à traduire"</string>
+    <string name="spinner_please_wait_text">S\'il vous plaît, attendez</string>
+    <string name="translate_pronunciation_btn_text">" Prononciation"</string>
+</resources>

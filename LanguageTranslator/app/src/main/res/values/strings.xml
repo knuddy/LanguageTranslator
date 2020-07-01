@@ -1,0 +1,36 @@
+<resources>
+    <string name="countryCode">en</string>
+    <string name="languageName">English</string>
+    <string name="on_error" translatable="false">onError - %1$s</string>
+    <string name="app_name" translatable="false">LanguageTranslator</string>
+    <string name="api_key" translatable="false">trnsl.1.1.20200427T114725Z.e446173fb8e876ef.f9ce040bbceb07041ae9873024a88b1edcb1c891</string>
+    <string name="base_translation_url" translatable="false">https://translate.yandex.net/api/v1.5/tr.json/translate</string>
+    <string name="base_get_available_url" translatable="false">https://translate.yandex.net/api/v1.5/tr.json/getLangs</string>
+    <string name="main_translator_card_title">Language Translator</string>
+    <string name="main_translator_card_secondary">Translate from one language to another</string>
+    <string name="main_quiz_card_title">Multichoice Quiz</string>
+    <string name="main_quiz_card_secondary">Given a picture choose from multiple answers</string>
+    <string name="app_name_text">The Language App</string>
+    <string name="menu_exit_text">Exit</string>
+    <string name="menu_settings_text">Settings</string>
+    <string name="exit_confirm_text">Are you sure you want to exit the application? If you\'re currently participating in a quiz, your progress will be lost.</string>
+    <string name="exit_close_app_btn_text">Close</string>
+    <string name="exit_no_thanks_btn_text">Cancel</string>
+    <string name="exit_title_text">Confirmation</string>
+    <string name="exit_secondary_text">Close Application</string>
+    <string name="settings_general_text">General</string>
+    <string name="settings_personal_info_text">Personal Information</string>
+    <string name="settings_dark_mode_text">Dark Mode</string>
+    <string name="quiz_high_score_text">High Score:</string>
+
+    <string name="question_manager_start_quiz_text">Start Quiz</string>
+    <string name="quiz_manager_high_score_text">High Score:</string>
+    <string name="translate_translate_from_text">Translate From</string>
+    <string name="translate_translate_to_text">Translate To</string>
+    <string name="translate_translate_button_text">Translate Text</string>
+    <string name="translator_translator_title_text">Translator</string>
+    <string name="trasnlate_enter_text_to_translate">Enter Text To Translate</string>
+    <string name="translate_begin_translation_button">Begin Translation</string>
+    <string name="spinner_please_wait_text">Please Wait</string>
+    <string name="translate_pronunciation_btn_text">Pronunciation</string>
+</resources>

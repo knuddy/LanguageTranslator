@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countryCode">de</string>
+    <string name="languageName">German</string>
+    <string name="translate_pronunciation_btn_text">Aussprache</string>
+    <string name="spinner_please_wait_text">Warten Sie mal</string>
+    <string name="translate_begin_translation_button">Übersetzung beginnen</string>
+    <string name="trasnlate_enter_text_to_translate">Geben Sie den zu übersetzenden Text ein</string>
+    <string name="translator_translator_title_text">Übersetzer</string>
+    <string name="translate_translate_button_text">Text übersetzen</string>
+    <string name="translate_translate_to_text">Übersetzen ins</string>
+    <string name="translate_translate_from_text">" Übersetzen von"</string>
+    <string name="quiz_manager_high_score_text">High Score:</string>
+    <string name="question_manager_start_quiz_text">" Starten Sie das Quiz"</string>
+    <string name="quiz_high_score_text">High Score:</string>
+    <string name="settings_dark_mode_text">Dunkler Modus</string>
+    <string name="settings_personal_info_text">Persönliche Angaben</string>
+    <string name="settings_general_text">Allgemeines</string>
+    <string name="exit_secondary_text">" Schließe die Anwendung"</string>
+    <string name="exit_title_text">" Bestätigung"</string>
+    <string name="exit_no_thanks_btn_text">" Stornieren"</string>
+    <string name="exit_close_app_btn_text">" Schließen"</string>
+    <string name="exit_confirm_text">" Möchten Sie die Anwendung wirklich beenden? Wenn Sie gerade an einem Quiz teilnehmen, geht Ihr Fortschritt verloren."</string>
+    <string name="menu_settings_text">" die Einstellungen"</string>
+    <string name="menu_exit_text">" Ausgang"</string>
+    <string name="app_name_text">" Die Sprach-App"</string>
+    <string name="main_quiz_card_secondary">" Wählen Sie bei einem Bild aus mehreren Antworten"</string>
+    <string name="main_quiz_card_title">" Multichoice-Quiz"</string>
+    <string name="main_translator_card_secondary">" Übersetzen Sie von einer Sprache in eine andere"</string>
+    <string name="main_translator_card_title">Übersetzer</string>
+</resources>

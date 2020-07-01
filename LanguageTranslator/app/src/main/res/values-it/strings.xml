@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countryCode">it</string>
+    <string name="languageName">Italian</string>
+    <string name="main_translator_card_title">" Traduttore"</string>
+    <string name="main_translator_card_secondary">" Traduci da una lingua all'altra"</string>
+    <string name="main_quiz_card_title">Quiz a più voci</string>
+    <string name="main_quiz_card_secondary">Data un\'immagine scegli tra più risposte</string>
+    <string name="app_name_text">" L'app per le lingue"</string>
+    <string name="menu_settings_text">" impostazioni"</string>
+    <string name="menu_exit_text">" Uscita"</string>
+    <string name="exit_confirm_text">" Sei sicuro di voler uscire dall'applicazione? Se stai attualmente partecipando a un quiz, i tuoi progressi andranno persi."</string>
+    <string name="exit_close_app_btn_text">Vicino</string>
+    <string name="exit_no_thanks_btn_text">Annulla</string>
+    <string name="exit_title_text">" Conferma"</string>
+    <string name="exit_secondary_text">" Chiudi applicazione"</string>
+    <string name="settings_general_text">Generale</string>
+    <string name="settings_dark_mode_text">" Modalità scura"</string>
+    <string name="settings_personal_info_text">" Informazione personale"</string>
+    <string name="quiz_high_score_text">Punteggio alto:</string>
+    <string name="question_manager_start_quiz_text">Inizia il quiz</string>
+    <string name="quiz_manager_high_score_text">Punteggio alto:</string>
+    <string name="translate_translate_from_text">" Tradotto da"</string>
+    <string name="translate_translate_to_text">" Traduci in"</string>
+    <string name="translate_translate_button_text">" Traduci testo"</string>
+    <string name="translator_translator_title_text">Traduttore</string>
+    <string name="trasnlate_enter_text_to_translate">" Inserisci il testo da tradurre"</string>
+    <string name="translate_begin_translation_button">" Inizia la traduzione"</string>
+    <string name="spinner_please_wait_text">Attendere prego</string>
+    <string name="translate_pronunciation_btn_text">" Pronuncia"</string>
+</resources>

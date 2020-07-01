@@ -1,0 +1,277 @@
+[
+    {
+        "quizTitle": "Mythologie",
+        "questions": [
+            {
+                "questionText": "Diese griechische mythologische Figur ist (unter anderem) der Gott / die Göttin der Kampfstrategie.",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Ares",
+                    "Artemis",
+                    "Athena",
+                    "Apollo"
+                ]
+            },
+            {
+                "questionText": "Neptuns griechischer Name war ...",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Apollo",
+                    "Poseidon",
+                    "Ares",
+                    "Zeus"
+                ]
+            },
+            {
+                "questionText": "Welcher dieser römischen Götter hat kein Gegenstück zur griechischen Mythologie?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Vulkan",
+                    "Juno",
+                    "März",
+                    "Janus"
+                ]
+            },
+            {
+                "questionText": "Wie heißt der griechische Schmiedegott?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Dyntos",
+                    "Vulkan",
+                    "Hephaistos",
+                    "Artagatus"
+                ]
+            },
+            {
+                "questionText": "Was ist laut japanischer Folklore das Lieblingsessen des Kappa?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Gurken",
+                    "Zimmer",
+                    "Kabocha",
+                    "Nasu"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Politik",
+        "questions": [
+            {
+                "questionText": "Welcher Präsident hat die Staatsverschuldung der Vereinigten Staaten beseitigt?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Andrew Jackson",
+                    "Franklin D. Roosevelt",
+                    "John F. Kennedy",
+                    "Ronald Reagan"
+                ]
+            },
+            {
+                "questionText": "Vor 2011 war \"True Capitalist Radio\" unter einem anderen Namen bekannt. Wie war dieser Name?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Texanisches kapitalistisches Radio",
+                    "Vereinigte Kapitalisten",
+                    "Wahres konservatives Radio",
+                    "Wahres republikanisches Radio"
+                ]
+            },
+            {
+                "questionText": "Welches davon ist NICHT eines von Donald Trumps Kindern?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Donald Jr.",
+                    "Eric",
+                    "Ivanka",
+                    "Julius"
+                ]
+            },
+            {
+                "questionText": "Wie lautete der persönliche Spitzname des 40. Gouverneurs des US-Bundesstaates Louisiana, Huey Long?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Der Sieger",
+                    "Das Orakel",
+                    "Der Kingfish",
+                    "Die Schreieule"
+                ]
+            },
+            {
+                "questionText": "Welcher ehemalige US-Präsident hat vor Donald Trumps Wahlkampf \"Let's Make America Great Again\" als Wahlkampfslogan verwendet?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Gerald Ford",
+                    "Richard Nixon",
+                    "Ronald Reagan",
+                    "Jimmy Carter"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Erdkunde",
+        "questions": [
+            {
+                "questionText": "Kuala Lumpur ist die Hauptstadt von welchem Land?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Malaysia",
+                    "Thailand",
+                    "Indonesien",
+                    "Singapur"
+                ]
+            },
+            {
+                "questionText": "Welches Ereignis führte dazu, dass Liechenstein seiner Flagge eine Krone hinzufügte?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Unterzeichnung der liechtensteinischen Verfassung von 1862",
+                    "Krönung von Fürst Johann I. Joseph im Jahre 1805",
+                    "Karls VI. Dekret von 1719",
+                    "Die Olympischen Spiele 1936"
+                ]
+            },
+            {
+                "questionText": "Welches Land hat drei Hauptstädte?",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Vereinigtes Königreich",
+                    "Südafrika",
+                    "Somalia",
+                    "China"
+                ]
+            },
+            {
+                "questionText": "Welcher ist der längste Fluss der Welt?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Jangtse",
+                    "Missouri",
+                    "Amazonas",
+                    "Nil"
+                ]
+            },
+            {
+                "questionText": "In welcher englischen Grafschaft liegt die Stadt Portsmouth?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Oxfordshire",
+                    "Surrey",
+                    "Buckinghamshire",
+                    "Hampshire"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Film",
+        "questions": [
+            {
+                "questionText": "Welche Modellnummer trägt der Terminator im Film \"The Terminator\" von 1984 von Arnold Schwarzenegger?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "T-800",
+                    "T-888",
+                    "T-1000",
+                    "I-950"
+                ]
+            },
+            {
+                "questionText": "Wie heißt der Roboter im Science-Fiction-Filmklassiker \"Der Tag, an dem die Erde stillstand\" von 1951?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "Koloss",
+                    "Box",
+                    "Gerste",
+                    "Robby"
+                ]
+            },
+            {
+                "questionText": "Wer hat beim Neustart von Nightmare on Elm Street 2010 Freddy Kruger gespielt?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "Jackie Earle Haley",
+                    "Gunnar Hansen",
+                    "Tyler Mane",
+                    "Derek Mears"
+                ]
+            },
+            {
+                "questionText": "Welcher dieser Schauspieler soll aus dem Film 'ET the Extra-Terrestrial' herausgeschnitten worden sein?",
+                "correctAnswerIndex": 1,
+                "questionChoices": [
+                    "Andy Kaufman",
+                    "Harrison Ford",
+                    "Arnold Schwarzenegger",
+                    "Michael J. Fox"
+                ]
+            },
+            {
+                "questionText": "Wer spielte Sgt. Gordon Elias in \"Platoon\" (1986)?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Matt Damon",
+                    "Johnny Depp",
+                    "Charlie Sheen",
+                    "Willem Dafoe"
+                ]
+            }
+        ]
+    },
+    {
+        "quizTitle": "Geschichte",
+        "questions": [
+            {
+                "questionText": "Der Herero-Völkermord wurde in Afrika von welcher der folgenden Kolonialnationen begangen?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Großbritannien",
+                    "Frankreich",
+                    "Belgien",
+                    "Deutschland"
+                ]
+            },
+            {
+                "questionText": "Adolf Hitler wurde an welchem Datum geboren?",
+                "correctAnswerIndex": 0,
+                "questionChoices": [
+                    "20. April 1889",
+                    "16. April 1889",
+                    "12. Juni 1889",
+                    "6. Februar 1889"
+                ]
+            },
+            {
+                "questionText": "In welchem Jahr fiel die Berliner Mauer?",
+                "correctAnswerIndex": 2,
+                "questionChoices": [
+                    "1993",
+                    "1987",
+                    "1989",
+                    "1991"
+                ]
+            },
+            {
+                "questionText": "Wie heißt das Schiff, das nur wenige Kilometer von der RMS Titanic entfernt war, als es am 14. April 1912 einen Eisberg traf?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "Handel",
+                    "Pistole",
+                    "Carpathia",
+                    "kalifornisch"
+                ]
+            },
+            {
+                "questionText": "Wann begann die Krise des dritten Jahrhunderts?",
+                "correctAnswerIndex": 3,
+                "questionChoices": [
+                    "235 v",
+                    "242 n. Chr",
+                    "210 n. Chr",
+                    "235 n. Chr"
+                ]
+            }
+        ]
+    }
+]

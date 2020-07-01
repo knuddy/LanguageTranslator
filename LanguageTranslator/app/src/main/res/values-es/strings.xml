@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countryCode">es</string>
+    <string name="languageName">Spanish</string>
+    <string name="main_translator_card_title">Traductor de idiomas</string>
+    <string name="main_translator_card_secondary">" Traducir de un idioma a otro"</string>
+    <string name="main_quiz_card_title">Prueba multicoice</string>
+    <string name="main_quiz_card_secondary">Dada una imagen, elija entre múltiples respuestas</string>
+    <string name="app_name_text">" La aplicación de idiomas"</string>
+    <string name="menu_exit_text">" Salida"</string>
+    <string name="menu_settings_text">Configuraciones</string>
+    <string name="exit_confirm_text">" ¿Seguro que quieres salir de la aplicación? Si actualmente participa en una prueba, su progreso se perderá."</string>
+    <string name="exit_close_app_btn_text">" Cerca"</string>
+    <string name="exit_no_thanks_btn_text">" Cancelar"</string>
+    <string name="exit_title_text">" Confirmación"</string>
+    <string name="settings_general_text">" General"</string>
+    <string name="exit_secondary_text">" Cierra la aplicación"</string>
+    <string name="settings_personal_info_text">" Informaciones personales"</string>
+    <string name="settings_dark_mode_text">" Modo oscuro"</string>
+    <string name="quiz_high_score_text">" Puntuación más alta:"</string>
+    <string name="quiz_manager_high_score_text">" Puntuación más alta:"</string>
+    <string name="question_manager_start_quiz_text">" Comenzar cuestionario"</string>
+    <string name="translate_translate_from_text">" Traducir del"</string>
+    <string name="translate_translate_to_text">" Traducir a"</string>
+    <string name="translate_translate_button_text">" Traducir texto"</string>
+    <string name="translator_translator_title_text">Traductor</string>
+    <string name="trasnlate_enter_text_to_translate">" Ingrese texto para traducir"</string>
+    <string name="translate_begin_translation_button">" Comenzar traducción"</string>
+    <string name="translate_pronunciation_btn_text">Pronunciación</string>
+    <string name="spinner_please_wait_text">" Por favor espera"</string>
+</resources>
